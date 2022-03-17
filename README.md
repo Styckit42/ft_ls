@@ -1,3 +1,3 @@
 # ft_ls
 
-Programme reprenant la commande "ls" d'un terminal.
+Programme en C reprenant la commande "ls" d'un terminal.
